@@ -1,0 +1,106 @@
+[
+  {
+    "path": "services/hibar-fireproofing",
+    "images": [
+      "fireproofing"
+    ]
+  },
+  {
+    "path": "services/monoglass-insulation",
+    "images": [
+      "monoglass"
+    ]
+  },
+  {
+    "path": "services/industrial-coatings-legacy",
+    "images": [
+      "commercial-lifts",
+      "warehouse"
+    ]
+  },
+  {
+    "path": "repairs/hibar-fireproofing",
+    "images": [
+      "fireproofing"
+    ]
+  },
+  {
+    "path": "repairs/monoglass-insulation",
+    "images": [
+      "monoglass"
+    ]
+  },
+  {
+    "path": "repairs/epoxy-floor-coatings",
+    "images": [
+      "epoxy"
+    ]
+  },
+  {
+    "path": "guides/monoglass-product-storage-and-jobsite-planning",
+    "images": [
+      "storage"
+    ]
+  },
+  {
+    "path": "guides/repairing-damaged-monoglass-insulation",
+    "images": [
+      "monoglass"
+    ]
+  },
+  {
+    "path": "guides/hibar-fireproofing-repair-after-trade-damage",
+    "images": [
+      "fireproofing"
+    ]
+  },
+  {
+    "path": "guides/hibar-fireproofing-thickness-and-quality-control",
+    "images": [
+      "fireproofing"
+    ]
+  },
+  {
+    "path": "guides/epoxy-garage-floor-preparation-checklist",
+    "images": [
+      "epoxy"
+    ]
+  },
+  {
+    "path": "guides/epoxy-floors-for-retail-stores",
+    "images": [
+      "retail"
+    ]
+  },
+  {
+    "path": "guides/warehouse-floor-coating-repair-or-recoat",
+    "images": [
+      "warehouse"
+    ]
+  },
+  {
+    "path": "guides/spray-foam-versus-spray-applied-fibre",
+    "images": [
+      "monoglass"
+    ]
+  },
+  {
+    "path": "guides/fireproofing-versus-intumescent-coatings",
+    "images": [
+      "fireproofing"
+    ]
+  },
+  {
+    "path": "guides/commercial-kitchen-floor-coating-scope",
+    "images": [
+      "kitchen"
+    ]
+  },
+  {
+    "path": "guides/documenting-legacy-coating-and-insulation-work",
+    "images": [
+      "commercial-lifts",
+      "monoglass"
+    ]
+  }
+]

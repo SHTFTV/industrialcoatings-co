@@ -1,6 +1,8 @@
 {
-  "buildCommand": "echo 'static site \u2014 no build step'",
-  "outputDirectory": ".",
-  "cleanUrls": true,
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": "site",
+  "cleanUrls": false,
   "trailingSlash": false
 }
