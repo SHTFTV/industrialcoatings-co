@@ -1,0 +1,22 @@
+# Industrial Coatings
+
+Independent material and project-planning information. Performance Spray Insulation is credited only for supplied confirmed project records. Project photographs do not certify installed performance. General enquiries: build@buildershaus.com.
+
+- [Commercial Kitchen Floor Coating Scope](https://industrialcoatings.co/guides/commercial-kitchen-floor-coating-scope/): Drainage, cleaning, slip resistance, transitions and shutdown constraints for food-service floors.
+- [Crawlspace Insulation: Moisture and Access First](https://industrialcoatings.co/guides/crawlspace-insulation-moisture-and-access/): Assess moisture, access, substrate and ventilation before planning crawlspace insulation.
+- [DC315 Coating: What Owners Should Ask Before Application](https://industrialcoatings.co/guides/dc315-coating-scope-and-handover/): Use the Nanaimo project record to plan substrate checks, coating documentation, access and handover without assuming a fire rating from photographs.
+- [Documenting Legacy Coating and Insulation Work](https://industrialcoatings.co/guides/documenting-legacy-coating-and-insulation-work/): How to preserve old project evidence without mislabelling products, locations or completed assemblies.
+- [Epoxy Floors for Retail Stores](https://industrialcoatings.co/guides/epoxy-floors-for-retail-stores/): How traffic, slip resistance, cleaning, colour, phasing and reopening time shape a retail floor system.
+- [Epoxy Garage Floor Preparation Checklist](https://industrialcoatings.co/guides/epoxy-garage-floor-preparation-checklist/): A condition-led checklist for moisture, contamination, cracks, profiling, joints and cure planning.
+- [Evaluating roof and containment coating projects](https://industrialcoatings.co/guides/evaluating-roof-and-containment-coatings/): Two coating applications where existing condition and exposure determine whether a system is suitable.
+- [Fireproofing vs. Intumescent Coatings](https://industrialcoatings.co/guides/fireproofing-versus-intumescent-coatings/): The visible and technical differences between cementitious fireproofing and reactive intumescent coatings.
+- [HiBar Fireproofing Repair After Trade Damage](https://industrialcoatings.co/guides/hibar-fireproofing-repair-after-trade-damage/): What to document when later mechanical, electrical or framing work damages spray-applied fire protection.
+- [HiBar Fireproofing Thickness and Quality Control](https://industrialcoatings.co/guides/hibar-fireproofing-thickness-and-quality-control/): Why specified thickness, adhesion, substrate and inspection records matter to passive fire protection.
+- [Monoglass Product Storage and Jobsite Planning](https://industrialcoatings.co/guides/monoglass-product-storage-and-jobsite-planning/): How bagged spray-applied insulation, water, equipment, access and protection affect a Monoglass scope.
+- [Ocean View, Nanaimo: DC315 Coating Work by Performance Spray Insulation](https://industrialcoatings.co/guides/nanaimo-ocean-view-dc315-coating/): See supplied photos and DC315 application video from the Ocean View project in Nanaimo, with practical coating-scope questions for owners.
+- [Planning spray-applied fireproofing work](https://industrialcoatings.co/guides/planning-spray-applied-fireproofing/): The project information needed to coordinate a specification-led passive fire-protection scope.
+- [Repairing Damaged Monoglass Insulation](https://industrialcoatings.co/guides/repairing-damaged-monoglass-insulation/): A practical sequence for diagnosing and repairing loose, stained or impacted spray-applied insulation.
+- [How to scope an industrial floor coating](https://industrialcoatings.co/guides/specifying-industrial-floor-coatings/): A practical framework for collecting the information a coating contractor needs before recommending a floor system.
+- [Spray Foam vs. Spray-Applied Fibre Insulation](https://industrialcoatings.co/guides/spray-foam-versus-spray-applied-fibre/): Compare assembly role, substrate, finish, access and documentation without treating the products as interchangeable.
+- [Surface preparation before protective coating](https://industrialcoatings.co/guides/surface-preparation-for-protective-coatings/): Why cleaning, profiling and environmental control carry as much weight as the coating itself.
+- [Warehouse Floor Coating: Repair or Recoat?](https://industrialcoatings.co/guides/warehouse-floor-coating-repair-or-recoat/): How to distinguish isolated coating damage from a system-wide preparation or exposure problem.

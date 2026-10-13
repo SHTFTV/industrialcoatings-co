@@ -46,3 +46,6 @@ document.addEventListener('click', event => {
     main.append(legacy);
   }, 800);
 })();
+
+// Static homepage and project gallery retain the accessible mobile navigation.
+if(!document.querySelector('script[type="module"]')){const menu=document.querySelector(".header .menu"),nav=document.querySelector("#nav");if(menu&&nav){menu.addEventListener("click",()=>{const open=menu.getAttribute("aria-expanded")!=="true";menu.setAttribute("aria-expanded",String(open));nav.classList.toggle("open",open);});nav.addEventListener("click",()=>{menu.setAttribute("aria-expanded","false");nav.classList.remove("open");});}}
